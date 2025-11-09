@@ -1,0 +1,24 @@
+name: generate-pacman
+
+on:
+  schedule:
+    - cron: "0 * * * *" # roda a cada hora
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: YoussefRaafatNasry/github-contribution-grid-snake@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_PATH: output/pacman-contribution-graph.svg
+          THEME: pacman
+      - name: Push to output branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/
+          git commit -m "Generate pacman graph"
+          git push
