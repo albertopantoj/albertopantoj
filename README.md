@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">💼 -  Freelancer em manutenção de computadores<br>🌱 -  Estudando desenvolvimento web<br>😄 -  Pronomes: Ele/Dele</p>
+<p align="left">💼 - Estagiário em Suporte Técnico <br>🌱 -  Estudando desenvolvimento web<br>😄 -  Pronomes: Ele/Dele</p>
 
 ###
 
