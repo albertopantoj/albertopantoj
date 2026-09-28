@@ -48,12 +48,6 @@
 
 <p align="left">Estudante de Engenharia de Software(5° semestre) na Unifavip Wyden.<br>Possuo interesse em desenvolvimento de software e cibersegurança. <br><br>Atualmente estou focado em aprender desenvolvimento web! Sigo todos os dias melhorando gradualmente em tecnologias como Javascript, HTML5 e CSS3.<br><br>Estou a procura de uma vaga de estágio em desenvolvimento de software front-end!</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertopantoj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertopantoj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
