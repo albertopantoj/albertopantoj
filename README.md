@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">💼 - Estagiário em Suporte Técnico <br>🌱 -  Estudando desenvolvimento web<br>😄 -  Pronomes: Ele/Dele</p>
+<p align="left">💼 - Estagiário no Tribunal Regional do trabalho da 8° Região <br>🌱 -  Estudando desenvolvimento de software com Java<br>😄 -  Pronomes: Ele/Dele</p>
 
 ###
 
