@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Estudante de Engenharia de Software(5° semestre) na Unifavip Wyden.<br>Possuo interesse em desenvolvimento de software e cibersegurança. <br><br>Atualmente estou focado em aprender desenvolvimento web! Sigo todos os dias melhorando gradualmente em tecnologias como Javascript, Java, HTML5 e CSS3.<br></p>
+<p align="left">Estudante de Engenharia de Software( 5° semestre ) na Unifavip Wyden.<br>Possuo interesse em desenvolvimento de software e cibersegurança. <br><br>Atualmente estou focado em aprender desenvolvimento web! Sigo todos os dias melhorando gradualmente em tecnologias como Javascript, Java, HTML5 e CSS3.<br></p>
 
 
 ###
