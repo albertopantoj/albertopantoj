@@ -26,20 +26,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alberto-pantoja-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="aplicantealberto@gmai.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/__betopantoja/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <p align="left">💼 - Estagiário no Tribunal Regional do trabalho da 8° Região <br>🌱 -  Estudando desenvolvimento de software com Java<br>😄 -  Pronomes: Ele/Dele</p>
 
 ###
